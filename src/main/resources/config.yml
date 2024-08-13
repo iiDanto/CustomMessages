@@ -1,0 +1,9 @@
+join-message:
+  enabled: true
+  message: '&7[&a+&7] &r%player% has joined the game.'
+leave-message:
+  enabled: true
+  message: '&7[&c-&7] &r%player% has left the game.'
+death-message:
+  enabled: true
+  message: '&c%player% has Died!'
